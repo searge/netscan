@@ -1,0 +1,22 @@
+# Platform-specific excludes
+thumbs.db
+.DS_Store
+
+# IDEs
+/.idea
+/.buildpath
+/.cache
+/.metadata
+/.project
+/.settings
+/.gitattributes
+/.retry
+/nbproject
+/sitemap
+/templates/*
+# Python compiled files
+**.pyc
+
+# Pipenv
+/.venv
+

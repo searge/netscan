@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "scanning-with-python"
+version = "0.1.0"
+description = "Building a Scanning Tool Using Python"
+authors = ["Searge"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+rich = "^11.0"
+urllib3 = "^1.26"
+
+[tool.poetry.dev-dependencies]
+jupyter = "^1.0.0"
+
+autopep8 = "^1.5.7"
+mypy = "^0.931"
+wemake-python-styleguide = "^0.16.0"
+
+cyberbrain = "^0.2.0"
+pre-commit = "^2.16.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.nitpick]
+style = [
+  "https://raw.githubusercontent.com/wemake-services/wemake-python-styleguide/master/styles/flake8.toml",
+  "https://raw.githubusercontent.com/wemake-services/wemake-python-styleguide/master/styles/isort.toml"
+]
