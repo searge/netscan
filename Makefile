@@ -1,9 +1,15 @@
-init: lxc-deploy provision
+SRC=src/
+DEFAULT=$(SRC)app.py
+# .PHONY defines parts of the makefile that are not dependant on any specific file
+# This is most often used to store functions
+.PHONY: init run clean
 
-lxc-deploy:
-	sudo cdeploy
+init:
+	poetry shell
 
-provision:
-	./scripts/provision.sh lxc -vvvv
+run:
+	@python $(DEFAULT)
 
-.PHONY: init lxc-deploy provision
+clean:
+	rm -rf $(SRC)__pycache__
+	rm -rf .venv
