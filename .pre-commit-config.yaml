@@ -35,4 +35,3 @@
       language: system
       types: [python]
       args: [--max-line-length=200]
-
