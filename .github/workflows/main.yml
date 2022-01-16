@@ -6,7 +6,5 @@ jobs:
   formatting:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      # Run reorder-python-imports + black formatter
-      - name: Black Code Formatter
-        uses: tdeboissiere/python-format-action@master
+      - name: wemake-python-styleguide
+        uses: wemake-services/wemake-python-styleguide@0.16.0
