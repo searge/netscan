@@ -21,3 +21,12 @@ def main():
     arp_request.show()
     print(arp_request.layers())
     print(arp_request.summary())
+
+    # Sending & reciving requests
+    arp_req_result = sc.srp(arp_request, timeout=10)
+    answered, unanswered = arp_req_result
+
+    response = answered[0]
+    print(response.query, response.answer, sep='\n')
+
+    response.answer.show()
