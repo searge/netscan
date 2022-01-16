@@ -5,6 +5,6 @@
 
 ** Building a Scanning Tool Using Python
 
-#+html: <a href="https://www.codacy.com/gh/Searge/scanning-with-python/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Searge/scanning-with-python&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/490bfe609cd84b8eb984f407c85dacda"/></a>
+#+html: <a href="https://www.codacy.com/gh/Searge/scanning-with-python/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Searge/scanning-with-python&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/490bfe609cd84b8eb984f407c85dacda"/></a> <a href="https://github.com/Searge/python-scanning/actions/workflows/main.yml"><img src="https://github.com/Searge/python-scanning/workflows/wemake/badge.svg"/></a>
 
 -----

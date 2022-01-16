@@ -1,9 +1,9 @@
-﻿name: "PythonFormatting"
+﻿name: "wemake"
 
 on: [push, pull_request]
 
 jobs:
-  formatting:
+  style-lint:
     runs-on: ubuntu-latest
     steps:
       - name: wemake-python-styleguide
