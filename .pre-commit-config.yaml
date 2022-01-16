@@ -1,13 +1,6 @@
 ﻿- repo: local
 
   hooks:
-    - id: bandit
-      name: bandit
-      entry: bandit
-      language: system
-      types: [python]
-      args: [-lll, --recursive, .]
-
     - id: autoflake
       name: autoflake
       entry: autoflake
