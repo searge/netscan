@@ -1,4 +1,12 @@
-colorama==0.4.4; python_full_version >= "3.6.2" and python_full_version < "4.0.0" \
+asyncio==3.4.3 \
+    --hash=sha256:b62c9157d36187eca799c378e572c969f0da87cd5fc42ca372d92cdb06e7e1de \
+    --hash=sha256:c46a87b48213d7464f22d9a497b9eef8c1928b68320a2fa94240f969f6fec08c \
+    --hash=sha256:c4d18b22701821de07bd6aea8b53d21449ec0ec5680645e5317062ea21817d2d \
+    --hash=sha256:83360ff8bc97980e4ff25c964c7bd3923d333d177aa4f7fb736b019f26c7cb41
+click==8.0.3; python_version >= "3.6" \
+    --hash=sha256:353f466495adaeb40b6b5f592f9f91cb22372351c84caeb068132442a4518ef3 \
+    --hash=sha256:410e932b050f5eed773c4cda94de75971c89cdb3155a72a0831139a79e5ecb5b
+colorama==0.4.4; python_full_version >= "3.6.2" and python_full_version < "4.0.0" and (python_version >= "3.6" and python_full_version < "3.0.0" and platform_system == "Windows" or platform_system == "Windows" and python_version >= "3.6" and python_full_version >= "3.5.0") \
     --hash=sha256:9f47eda37229f68eee03b24b9748937c7dc3868f906e8ba69fbcbdd3bc5dc3e2 \
     --hash=sha256:5941b2b48a20143d2267e95b1c2a7603ce057ee39fd88e7329b0c292aa16869b
 commonmark==0.9.1; python_full_version >= "3.6.2" and python_full_version < "4.0.0" \
