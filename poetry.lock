@@ -233,7 +233,7 @@ tests = ["pytest", "django", "pandas (>=0.24.2)", "numpy (>=1.16.3)", "chainmap"
 name = "click"
 version = "8.0.3"
 description = "Composable command line interface toolkit"
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.6"
 
@@ -1709,7 +1709,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "f4f8989f6dbd94a4b62412d694dfe8bac3592db4db9d72d3794d77c6f997f6b0"
+content-hash = "fef9c7ff4f5513602f3a0d09649854019afffecdb155444a93eb8a8365e0fef2"
 
 [metadata.files]
 appdirs = [
