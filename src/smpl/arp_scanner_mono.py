@@ -9,7 +9,8 @@ conf.verb = 0
 @click.option('--ip', required=True)
 @click.command('arp')
 def scan_local_network(ip):
-    """Scan local network.
+    """
+    Scan local network.
 
     Args:
         ip (str): Destintaion IP
