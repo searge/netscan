@@ -7,7 +7,6 @@ name = "pypi"
 autopep8 = ">=1.5.7"
 mypy = ">=0.931"
 wemake-python-styleguide = ">=0.16.0"
-
 cyberbrain = ">=0.2.0"
 pre-commit = ">=2.16.0"
 bandit = ">=1.7.1"
@@ -17,8 +16,16 @@ reorder-python-imports = ">=2.6.0"
 pycodestyle = ">=2.8.0"
 
 [packages]
-rich = ">=11.0"
-urllib3 = ">=1.26"
+rich = "==11.0.0"
+urllib3 = "==1.26.8"
+asyncio = "==3.4.3"
+click = "==8.0.3"
+colorama = "==0.4.4"
+commonmark = "==0.9.1"
+loguru = "==0.5.3"
+scapy = "==2.4.5"
+win32-setctime = "==1.0.4"
+Pygments = "==2.11.2"
 
 [requires]
 python_version = "3.9"
