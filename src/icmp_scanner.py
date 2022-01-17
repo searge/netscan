@@ -11,9 +11,9 @@ logger = logging.getLogger(__name__)
 
 
 @click.command('arp')
-@click.option('--quiet', default=False, is_flag=True)
+# @click.option('--quiet', default=False, is_flag=True)
 @click.option('-t', '--target', required=True, type=str)
-async def scan_local_network(target):
+def scan_local_network(target):
     """
     Scan local network.
 
@@ -35,4 +35,4 @@ async def scan_local_network(target):
 
 
 if __name__ == '__main__':
-    asyncio.run(scan_local_network())
+    scan_local_network()
