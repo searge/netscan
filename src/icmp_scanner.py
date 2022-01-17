@@ -1,5 +1,5 @@
 """ARP Scanner."""
-import asyncio
+# In future, we may want to import asyncio
 import logging
 
 import click
