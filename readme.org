@@ -5,7 +5,7 @@
 
 ** Building a Scanning Tool Using Python
 
-#+html: <a href="https://www.codacy.com/gh/Searge/python-scanning/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Searge/python-scanning&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/490bfe609cd84b8eb984f407c85dacda"/></a> <a href="https://github.com/Searge/python-scanning/actions/workflows/main.yml"><img src="https://github.com/Searge/python-scanning/workflows/wemake/badge.svg?branch=main"/></a>
+#+html: <a href="https://www.codacy.com/gh/Searge/netscan/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Searge/netscan&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/490bfe609cd84b8eb984f407c85dacda"/></a> <a href="https://github.com/Searge/netscan/actions/workflows/main.yml"><img src="https://github.com/Searge/netscan/workflows/wemake/badge.svg?branch=main"/></a>
 
 #+BEGIN_SRC shell
   # To execute scripts run
