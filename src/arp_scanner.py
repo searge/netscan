@@ -9,8 +9,12 @@ conf.verb = 0
 @click.option('--ip', required=True, multiple=True, type=(str))
 @click.command('arp')
 def scan_local_network(ip):
-    """
-    Scan local network.
+    """Scan local network.
+
+    Pass as many parameters as you want.
+
+    Note:
+        `IP` in the ``Args`` section is console `stdin`.
 
     Args:
         ip (Tuple[str]): Destintaion IP

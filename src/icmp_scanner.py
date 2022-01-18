@@ -14,8 +14,7 @@ logger = logging.getLogger(__name__)
 # @click.option('--quiet', default=False, is_flag=True)
 @click.option('-t', '--target', required=True, type=str)
 def scan_local_network(target):
-    """
-    Scan local network.
+    """Scan local network.
 
     Args:
         target (str): Destintaion IP
