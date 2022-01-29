@@ -50,14 +50,6 @@
             "index": "pypi",
             "version": "==0.9.1"
         },
-        "loguru": {
-            "hashes": [
-                "sha256:b28e72ac7a98be3d28ad28570299a393dfcd32e5e3f6a353dec94675767b6319",
-                "sha256:f8087ac396b5ee5f67c963b495d615ebbceac2796379599820e324419d53667c"
-            ],
-            "index": "pypi",
-            "version": "==0.5.3"
-        },
         "pygments": {
             "hashes": [
                 "sha256:44238f1b60a76d78fc8ca0528ee429702aae011c265fe6a8dd8b63049ae41c65",
