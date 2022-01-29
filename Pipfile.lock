@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "518d5a8deba8ae92b2ba3c439d40b0ab50f48e91783ac4a2e489845cc7bd60cb"
+            "sha256": "971b99aa0c3886a4d0ab0e831facc721720b55f8c4316448f7b90d6ad248865c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -68,11 +68,11 @@
         },
         "rich": {
             "hashes": [
-                "sha256:c32a8340b21c75931f157466fefe81ae10b92c36a5ea34524dff3767238774a4",
-                "sha256:d7a8086aa1fa7e817e3bba544eee4fd82047ef59036313147759c11475f0dafd"
+                "sha256:365ebcdbfb3aa8d4b0ed2490e0fbf7b886a39d14eb7ea5fb7aece950835e1eed",
+                "sha256:43e03d8eec12e21beaecc22c828a41c4247356414a12d5879834863d4ad53816"
             ],
             "index": "pypi",
-            "version": "==11.0.0"
+            "version": "==11.1.0"
         },
         "scapy": {
             "hashes": [
@@ -101,11 +101,11 @@
     "develop": {
         "aspy.refactor-imports": {
             "hashes": [
-                "sha256:78ca24122963fd258ebfc4a8dc708d23a18040ee39dca8767675821e84e9ea0a",
-                "sha256:7a18039d2e8be6b02b4791ce98891deb46b459b575c52ed35ab818c4eaa0c098"
+                "sha256:ace9ca78abf6cfdd20ea1a321b75b20c8cc2c1af58aecb9dc4ba9d6f70f74645",
+                "sha256:f5b2fcbf9fd68361168588f14eda64d502d029eefe632d15094cd0683ae12984"
             ],
-            "markers": "python_full_version >= '3.6.1'",
-            "version": "==2.2.0"
+            "markers": "python_version >= '3.7'",
+            "version": "==2.2.1"
         },
         "astor": {
             "hashes": [
@@ -370,11 +370,11 @@
         },
         "identify": {
             "hashes": [
-                "sha256:6b4b5031f69c48bf93a646b90de9b381c6b5f560df4cbe0ed3cf7650ae741e4d",
-                "sha256:aa68609c7454dbcaae60a01ff6b8df1de9b39fe6e50b1f6107ec81dcda624aa6"
+                "sha256:233679e3f61a02015d4293dbccf16aa0e4996f868bd114688b8c124f18826706",
+                "sha256:cf06b1639e0dca0c184b1504d8b73448c99a68e004a80524c7923b95f7b6837c"
             ],
-            "markers": "python_full_version >= '3.6.1'",
-            "version": "==2.4.4"
+            "markers": "python_version >= '3.7'",
+            "version": "==2.4.6"
         },
         "idna": {
             "hashes": [
