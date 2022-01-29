@@ -9,5 +9,5 @@ updates:
       - "python"
       - "dependencies"
   commit-message:
-      prefix: "pip prod"
+      prefix: "Python"
       include: "scope"
