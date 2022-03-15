@@ -18,7 +18,7 @@ jupyter = "^1.0.0"
 
 autopep8 = "^1.5.7"
 mypy = "^0.941"
-wemake-python-styleguide = "^0.16.0"
+wemake-python-styleguide = "^0.16.1"
 
 pre-commit = "^2.16.0"
 bandit = "^1.7.4"
