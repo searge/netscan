@@ -16,7 +16,7 @@ reorder-python-imports = ">=2.6.0"
 pycodestyle = ">=2.8.0"
 
 [packages]
-rich = "==12.1.0"
+rich = "==12.2.0"
 urllib3 = "==1.26.9"
 asyncio = "==3.4.3"
 click = "==8.1.2"
