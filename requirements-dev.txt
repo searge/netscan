@@ -691,9 +691,9 @@ tokenize-rt==4.2.1; python_full_version >= "3.6.1" \
 toml==0.10.2; python_full_version >= "3.6.2" and python_version >= "3.8" \
     --hash=sha256:806143ae5bfb6a3c6e736a764057db0e6a0e05e338b5630894a5f779cabb4f9b \
     --hash=sha256:b3bda1d108d5dd99f4a20d24d9c348e91c4db7ab1b749200bded2f839ccbe68f
-tomli==2.0.0; python_version >= "3.7" \
-    --hash=sha256:b5bde28da1fed24b9bd1d4d2b8cba62300bfb4ec9a6187a957e8ddb9434c5224 \
-    --hash=sha256:c292c34f58502a1eb2bbb9f5bbc9a5ebc37bee10ffb8c2d6bbdfa8eb13cc14e1
+tomli==2.0.1; python_version >= "3.7" \
+    --hash=sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc \
+    --hash=sha256:de526c12914f0c550d15924c62d72abc48d6fe7364aa87328337a31007fe8a4f
 tornado==6.1; python_full_version >= "3.6.1" and python_version >= "3.7" \
     --hash=sha256:d371e811d6b156d82aa5f9a4e08b58debf97c302a35714f6f45e35139c332e32 \
     --hash=sha256:0d321a39c36e5f2c4ff12b4ed58d41390460f798422c4504e09eb5678e09998c \
