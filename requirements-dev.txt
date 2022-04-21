@@ -29,9 +29,9 @@ argon2-cffi-bindings==21.2.0; python_version >= "3.6" \
 argon2-cffi==21.3.0; python_version >= "3.6" \
     --hash=sha256:d384164d944190a7dd7ef22c6aa3ff197da12962bd04b17f64d4e93d934dba5b \
     --hash=sha256:8c976986f2c5c0e5000919e6de187906cfd81fb1c72bf9d88c01177e77da7f80
-aspy.refactor-imports==2.2.1; python_version >= "3.7" \
-    --hash=sha256:ace9ca78abf6cfdd20ea1a321b75b20c8cc2c1af58aecb9dc4ba9d6f70f74645 \
-    --hash=sha256:f5b2fcbf9fd68361168588f14eda64d502d029eefe632d15094cd0683ae12984
+aspy.refactor-imports==3.0.1; python_version >= "3.7" \
+    --hash=sha256:bc257946fdf5abd9c60393cfb8d0b5d45a2b87d1ee0ede46584c8be5567bc669 \
+    --hash=sha256:df497c3726ee2931b03d403e58a4590f7f4e60059b115cf5df0e07e70c7c73be
 astor==0.8.1; python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.6" and python_version < "4.0" and python_full_version >= "3.4.0" \
     --hash=sha256:070a54e890cefb5b3739d19f30f5a5ec840ffc9c50ffa7d23cc9fc1a38ebbfc5 \
     --hash=sha256:6a6effda93f4e1ce9f618779b2dd1d9d84f1e32812c23a29b3fff6fd7f63fa5e
