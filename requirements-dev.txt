@@ -284,9 +284,9 @@ jupyter==1.0.0 \
     --hash=sha256:5b290f93b98ffbc21c0c7e749f054b3267782166d72fa5e3ed1ed4eaf34a2b78 \
     --hash=sha256:d9dc4b3318f310e34c82951ea5d6683f67bed7def4b259fafbfe4f1beb1d8e5f \
     --hash=sha256:3e1f86076bbb7c8c207829390305a2b1fe836d471ed54be66a3b8c41e7f46cc7
-jupyterlab-pygments==0.1.2; python_version >= "3.7" \
-    --hash=sha256:abfb880fd1561987efaefcb2d2ac75145d2a5d0139b1876d5be806e32f630008 \
-    --hash=sha256:cfcda0873626150932f438eccf0f8bf22bfa92345b814890ab360d666b254146
+jupyterlab-pygments==0.2.2; python_version >= "3.7" \
+    --hash=sha256:2405800db07c9f770863bcf8049a529c3dd4d3e28536638bd7c1c01d2748309f \
+    --hash=sha256:7405d7fde60819d905a9fa8ce89e4cd830e318cdad22a0030f7a901da705585d
 jupyterlab-widgets==1.1.0; python_version >= "3.6" \
     --hash=sha256:c2a9bd3789f120f64d73268c066ed3b000c56bc1dda217be5cdc43e7b4ebad3f \
     --hash=sha256:d5f41bc1713795385f718d44dcba47e1e1473c6289f28a95aa6b2c0782ee372a
