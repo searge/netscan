@@ -287,9 +287,9 @@ jupyter==1.0.0 \
 jupyterlab-pygments==0.1.2; python_version >= "3.7" \
     --hash=sha256:abfb880fd1561987efaefcb2d2ac75145d2a5d0139b1876d5be806e32f630008 \
     --hash=sha256:cfcda0873626150932f438eccf0f8bf22bfa92345b814890ab360d666b254146
-jupyterlab-widgets==1.0.2; python_version >= "3.6" \
-    --hash=sha256:f5d9efface8ec62941173ba1cffb2edd0ecddc801c11ae2931e30b50492eb8f7 \
-    --hash=sha256:7885092b2b96bf189c3a705cc3c412a4472ec5e8382d0b47219a66cccae73cfa
+jupyterlab-widgets==1.1.0; python_version >= "3.6" \
+    --hash=sha256:c2a9bd3789f120f64d73268c066ed3b000c56bc1dda217be5cdc43e7b4ebad3f \
+    --hash=sha256:d5f41bc1713795385f718d44dcba47e1e1473c6289f28a95aa6b2c0782ee372a
 markupsafe==2.1.1; python_version >= "3.7" \
     --hash=sha256:0212a68688482dc52b2d45013df70d169f542b7394fc744c02a57374a4207003 \
     --hash=sha256:089cf3dbf0cd6c100f02945abeb18484bd1ee57a079aefd52cffd17fba910b88 \
