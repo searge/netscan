@@ -415,9 +415,9 @@ pre-commit==2.17.0; python_full_version >= "3.6.1" \
 prometheus-client==0.13.1; python_version >= "3.6" \
     --hash=sha256:357a447fd2359b0a1d2e9b311a0c5778c330cfbe186d880ad5a6b39884652316 \
     --hash=sha256:ada41b891b79fca5638bd5cfe149efa86512eaa55987893becd2c6d8d0a5dfc5
-prompt-toolkit==3.0.26; python_full_version >= "3.6.2" and python_version >= "3.8" \
-    --hash=sha256:4bcf119be2200c17ed0d518872ef922f1de336eb6d1ddbd1e089ceb6447d97c6 \
-    --hash=sha256:a51d41a6a45fd9def54365bca8f0402c8f182f2b6f7e29c74d55faeb9fb38ac4
+prompt-toolkit==3.0.29; python_full_version >= "3.6.2" and python_version >= "3.8" \
+    --hash=sha256:62291dad495e665fca0bda814e342c69952086afb0f4094d0893d357e5c78752 \
+    --hash=sha256:bd640f60e8cecd74f0dc249713d433ace2ddc62b65ee07f96d358e0b152b6ea7
 ptyprocess==0.7.0; os_name != "nt" and python_version >= "3.8" and sys_platform != "win32" \
     --hash=sha256:4b41f3967fce3af57cc7e94b888626c18bf37a083e3651ca8feeb66d492fef35 \
     --hash=sha256:5c5d0a3b48ceee0b48485e0c26037c0acd7d29765ca3fbb5cb3831d347423220
