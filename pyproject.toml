@@ -17,7 +17,7 @@ asyncio = "^3.4.3"
 jupyter = "^1.0.0"
 
 autopep8 = "^1.5.7"
-mypy = "^0.942"
+mypy = "^0.950"
 wemake-python-styleguide = "^0.16.1"
 
 pre-commit = "^2.18.1"
