@@ -253,9 +253,9 @@ ipykernel==6.13.0; python_version >= "3.7" \
 ipython-genutils==0.2.0; python_version >= "3.6" \
     --hash=sha256:72dd37233799e619666c9f639a9da83c34013a73e8bbc79a7a6348d93c61fab8 \
     --hash=sha256:eb2e116e75ecef9d4d228fdc66af54269afa26ab4463042e33785b887c628ba8
-ipython==8.2.0; python_version >= "3.8" \
-    --hash=sha256:1b672bfd7a48d87ab203d9af8727a3b0174a4566b4091e9447c22fb63ea32857 \
-    --hash=sha256:70e5eb132cac594a34b5f799bd252589009905f05104728aea6a403ec2519dc1
+ipython==8.3.0; python_version >= "3.8" \
+    --hash=sha256:341456643a764c28f670409bbd5d2518f9b82c013441084ff2c2fc999698f83b \
+    --hash=sha256:807ae3cf43b84693c9272f70368440a9a7eaa2e7e6882dad943c32fbf7e51402
 ipywidgets==7.7.0 \
     --hash=sha256:ab4a5596855a88b83761921c768707d65e5847068139bc1729ddfe834703542a \
     --hash=sha256:e58ff58bc94d481e91ecb6e13a5cb96a87b6b8ade135e055603d0ca24593df38
