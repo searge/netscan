@@ -23,7 +23,7 @@ wemake-python-styleguide = "^0.16.1"
 pre-commit = "^2.19.0"
 bandit = "^1.7.4"
 autoflake = "^1.4"
-pyupgrade = "^2.32.0"
+pyupgrade = "^2.32.1"
 reorder-python-imports = "^3.1.0"
 pycodestyle = "^2.8.0"
 
