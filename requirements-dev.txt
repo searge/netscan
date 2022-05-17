@@ -683,9 +683,9 @@ stack-data==0.2.0; python_version >= "3.8" \
 stevedore==3.5.0; python_version >= "3.7" and python_version < "4.0" \
     --hash=sha256:a547de73308fd7e90075bb4d301405bebf705292fa90a90fc3bcf9133f58616c \
     --hash=sha256:f40253887d8712eaa2bb0ea3830374416736dc8ec0e22f5a65092c1174c44335
-terminado==0.13.3; python_version >= "3.7" \
-    --hash=sha256:874d4ea3183536c1782d13c7c91342ef0cf4e5ee1d53633029cbc972c8760bd8 \
-    --hash=sha256:94d1cfab63525993f7d5c9b469a50a18d0cdf39435b59785715539dd41e36c0d
+terminado==0.15.0; python_version >= "3.7" \
+    --hash=sha256:0d5f126fbfdb5887b25ae7d9d07b0d716b1cc0ccaacc71c1f3c14d228e065197 \
+    --hash=sha256:ab4eeedccfcc1e6134bfee86106af90852c69d602884ea3a1e8ca6d4486e9bfe
 testfixtures==6.18.3; python_version >= "3.6" and python_version < "4.0" \
     --hash=sha256:6ddb7f56a123e1a9339f130a200359092bd0a6455e31838d6c477e8729bb7763 \
     --hash=sha256:2600100ae96ffd082334b378e355550fef8b4a529a6fa4c34f47130905c7426d
