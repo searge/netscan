@@ -1316,7 +1316,7 @@ pbr = ">=2.0.0,<2.1.0 || >2.1.0"
 
 [[package]]
 name = "terminado"
-version = "0.13.1"
+version = "0.15.0"
 description = "Tornado websocket backend for the Xterm.js Javascript terminal emulator library."
 category = "dev"
 optional = false
@@ -1325,10 +1325,10 @@ python-versions = ">=3.7"
 [package.dependencies]
 ptyprocess = {version = "*", markers = "os_name != \"nt\""}
 pywinpty = {version = ">=1.1.0", markers = "os_name == \"nt\""}
-tornado = ">=4"
+tornado = ">=6.1.0"
 
 [package.extras]
-test = ["pytest"]
+test = ["pre-commit", "pytest-timeout", "pytest (>=6.0)"]
 
 [[package]]
 name = "testfixtures"
@@ -2219,8 +2219,8 @@ stevedore = [
     {file = "stevedore-3.5.0.tar.gz", hash = "sha256:f40253887d8712eaa2bb0ea3830374416736dc8ec0e22f5a65092c1174c44335"},
 ]
 terminado = [
-    {file = "terminado-0.13.1-py3-none-any.whl", hash = "sha256:f446b522b50a7aa68b5def0a02893978fb48cb82298b0ebdae13003c6ee6f198"},
-    {file = "terminado-0.13.1.tar.gz", hash = "sha256:5b82b5c6e991f0705a76f961f43262a7fb1e55b093c16dca83f16384a7f39b7b"},
+    {file = "terminado-0.15.0-py3-none-any.whl", hash = "sha256:0d5f126fbfdb5887b25ae7d9d07b0d716b1cc0ccaacc71c1f3c14d228e065197"},
+    {file = "terminado-0.15.0.tar.gz", hash = "sha256:ab4eeedccfcc1e6134bfee86106af90852c69d602884ea3a1e8ca6d4486e9bfe"},
 ]
 testfixtures = [
     {file = "testfixtures-6.18.3-py2.py3-none-any.whl", hash = "sha256:6ddb7f56a123e1a9339f130a200359092bd0a6455e31838d6c477e8729bb7763"},
