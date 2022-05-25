@@ -13,6 +13,3 @@ jobs:
         with:
           path: './src'
           reporter: 'terminal'
-          
-      - name: Output
-        run: echo "{{ steps.wemake-python-styleguide.outputs.output }}"
