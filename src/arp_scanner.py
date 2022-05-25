@@ -35,3 +35,4 @@ def scan_local_network(ip):
 
 if __name__ == '__main__':
     scan_local_network()
+    print("It's a test")
