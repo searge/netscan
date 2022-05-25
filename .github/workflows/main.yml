@@ -1,4 +1,4 @@
-﻿name: "wemake"
+name: "wemake"
 
 on: [push, pull_request]
 
@@ -8,6 +8,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: wemake-python-styleguide
-        uses: wemake-services/wemake-python-styleguide@0.16.0
+        uses: wemake-services/wemake-python-styleguide@0.16.1
+
         with:
+          path: './src'
           reporter: 'terminal'
+          
+      - name: Output
+        run: echo "{{ steps.wemake-python-styleguide.outputs.output }}"
