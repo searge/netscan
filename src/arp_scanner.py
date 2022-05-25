@@ -5,6 +5,7 @@ from scapy import config as conf
 
 conf.verb = 0
 
+
 @click.option('--ip', required=True, multiple=True, type=(str))
 @click.command('arp')
 def scan_local_network(ip):
@@ -34,6 +35,3 @@ def scan_local_network(ip):
 
 if __name__ == '__main__':
     scan_local_network()
-    zero_division = lambda a, b: a / b
-    print(zero_division(0, 5))
-

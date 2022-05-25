@@ -32,5 +32,6 @@ def scan_local_network(target):
         print(f'host {target} not available')
         logger.setLevel(logging.ERROR)
 
+
 if __name__ == '__main__':
     scan_local_network()
