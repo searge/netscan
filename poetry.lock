@@ -1039,7 +1039,7 @@ twisted = ["twisted"]
 
 [[package]]
 name = "prompt-toolkit"
-version = "3.0.29"
+version = "3.0.30"
 description = "Library for building powerful interactive command lines in Python"
 category = "dev"
 optional = false
@@ -2032,8 +2032,8 @@ prometheus-client = [
     {file = "prometheus_client-0.14.1.tar.gz", hash = "sha256:5459c427624961076277fdc6dc50540e2bacb98eebde99886e59ec55ed92093a"},
 ]
 prompt-toolkit = [
-    {file = "prompt_toolkit-3.0.29-py3-none-any.whl", hash = "sha256:62291dad495e665fca0bda814e342c69952086afb0f4094d0893d357e5c78752"},
-    {file = "prompt_toolkit-3.0.29.tar.gz", hash = "sha256:bd640f60e8cecd74f0dc249713d433ace2ddc62b65ee07f96d358e0b152b6ea7"},
+    {file = "prompt_toolkit-3.0.30-py3-none-any.whl", hash = "sha256:d8916d3f62a7b67ab353a952ce4ced6a1d2587dfe9ef8ebc30dd7c386751f289"},
+    {file = "prompt_toolkit-3.0.30.tar.gz", hash = "sha256:859b283c50bde45f5f97829f77a4674d1c1fcd88539364f1b28a37805cfd89c0"},
 ]
 psutil = [
     {file = "psutil-5.9.0-cp27-cp27m-manylinux2010_i686.whl", hash = "sha256:55ce319452e3d139e25d6c3f85a1acf12d1607ddedea5e35fb47a552c051161b"},
