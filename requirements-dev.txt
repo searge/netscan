@@ -282,18 +282,18 @@ jedi==0.18.1; python_version >= "3.8" \
 jinja2==3.1.2; python_version >= "3.7" \
     --hash=sha256:31351a702a408a9e7595a8fc6150fc3f43bb6bf7e319770cbc0db9df9437e852 \
     --hash=sha256:6088930bfe239f0e6710546ab9c19c9ef35e29792895fed6e6e31a023a182a61
-jsonschema==4.6.1; python_version >= "3.7" \
-    --hash=sha256:5eb781753403847fb320f05e9ab2191725b58c5e7f97f1bed63285ca423159bc \
-    --hash=sha256:ec2802e6a37517f09d47d9ba107947589ae1d25ff557b925d83a321fc2aa5d3b
+jsonschema==4.6.2; python_version >= "3.7" \
+    --hash=sha256:b19f62322b0f06927e8ae6215c01654e1885857cdcaf58ae1772b1aa97f1faf2 \
+    --hash=sha256:e331e32e29743014fa59fa77895b5d8669382a4904c8ef23144f7f078ec031c7
 jupyter-client==7.3.4; python_full_version >= "3.7.0" and python_version >= "3.7" \
     --hash=sha256:17d74b0d0a7b24f1c8c527b24fcf4607c56bee542ffe8e3418e50b21e514b621 \
     --hash=sha256:aa9a6c32054b290374f95f73bb0cae91455c58dfb84f65c8591912b8f65e6d56
 jupyter-console==6.4.4; python_version >= "3.6" \
     --hash=sha256:172f5335e31d600df61613a97b7f0352f2c8250bbd1092ef2d658f77249f89fb \
     --hash=sha256:756df7f4f60c986e7bc0172e4493d3830a7e6e75c08750bbe59c0a5403ad6dee
-jupyter-core==4.10.0; python_full_version >= "3.6.1" and python_version >= "3.7" \
-    --hash=sha256:a6de44b16b7b31d7271130c71a6792c4040f077011961138afed5e5e73181aec \
-    --hash=sha256:e7f5212177af7ab34179690140f188aa9bf3d322d8155ed972cbded19f55b6f3
+jupyter-core==4.11.0; python_full_version >= "3.6.1" and python_version >= "3.7" \
+    --hash=sha256:3ac8784dd2740257a82551fbdaacad48956f1326290fbcc5e47a808347422cee \
+    --hash=sha256:7cf01bed6579e83241b655c76910f5d608c4b1265dbffc0ffd4df3244628e31e
 jupyter==1.0.0 \
     --hash=sha256:5b290f93b98ffbc21c0c7e749f054b3267782166d72fa5e3ed1ed4eaf34a2b78 \
     --hash=sha256:d9dc4b3318f310e34c82951ea5d6683f67bed7def4b259fafbfe4f1beb1d8e5f \
