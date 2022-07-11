@@ -20,7 +20,7 @@ autopep8 = "^1.5.7"
 mypy = "^0.961"
 wemake-python-styleguide = "^0.16.1"
 
-pre-commit = "^2.19.0"
+pre-commit = "^2.20.0"
 bandit = "^1.7.4"
 autoflake = "^1.4"
 pyupgrade = "^2.34.0"
