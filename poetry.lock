@@ -1118,7 +1118,7 @@ six = ">=1.5"
 
 [[package]]
 name = "pyupgrade"
-version = "2.34.0"
+version = "2.37.0"
 description = "A tool to automatically upgrade syntax for newer versions."
 category = "dev"
 optional = false
@@ -1494,7 +1494,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "efd3b3f2827526806b09930827687ea0bff471e76618bc349893100c831f0977"
+content-hash = "47f31aa7cdabbb634010d2eddda0f0a21578f60a73f52e958b5db6385a14616d"
 
 [metadata.files]
 appnope = []
