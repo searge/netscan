@@ -1201,7 +1201,7 @@ test = ["pytest (>=6,!=7.0.0,!=7.0.1)", "pytest-cov (>=3.0.0)", "pytest-qt"]
 
 [[package]]
 name = "reorder-python-imports"
-version = "3.8.0"
+version = "3.8.1"
 description = "Tool for reordering python imports"
 category = "dev"
 optional = false
@@ -1494,7 +1494,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "922efe1870e856f55aeb9a86e333e1285c39d1d812ad8060441cec4940e2e8ed"
+content-hash = "9c132852dcfcd40b7e361523ddbcee2154b91decbdb3e76da6a7fb833c215f97"
 
 [metadata.files]
 appnope = []
