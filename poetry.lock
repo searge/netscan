@@ -1223,7 +1223,7 @@ docutils = ">=0.11,<1.0"
 
 [[package]]
 name = "rich"
-version = "12.4.4"
+version = "12.5.1"
 description = "Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal"
 category = "main"
 optional = false
@@ -1494,7 +1494,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "47f31aa7cdabbb634010d2eddda0f0a21578f60a73f52e958b5db6385a14616d"
+content-hash = "922efe1870e856f55aeb9a86e333e1285c39d1d812ad8060441cec4940e2e8ed"
 
 [metadata.files]
 appnope = []
