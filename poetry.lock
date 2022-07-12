@@ -509,7 +509,7 @@ license = ["ukkonen"]
 
 [[package]]
 name = "ipykernel"
-version = "6.15.0"
+version = "6.15.1"
 description = "IPython Kernel for Jupyter"
 category = "dev"
 optional = false
