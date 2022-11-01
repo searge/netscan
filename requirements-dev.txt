@@ -261,9 +261,9 @@ gitpython==3.1.26; python_version >= "3.7" and python_version < "4.0" \
 identify==2.5.3; python_version >= "3.7" and python_full_version >= "3.6.1" \
     --hash=sha256:25851c8c1370effb22aaa3c987b30449e9ff0cece408f810ae6ce408fdd20893 \
     --hash=sha256:887e7b91a1be152b0d46bbf072130235a8117392b9f1828446079a816a05ef44
-ipykernel==6.15.1; python_version >= "3.7" \
-    --hash=sha256:37acc3254caa8a0dafcddddc8dc863a60ad1b46487b68aee361d9a15bda98112 \
-    --hash=sha256:d8969c5b23b0e453a23166da5a669c954db399789293fcb03fec5cb25367e43c
+ipykernel==6.17.0; python_version >= "3.7" \
+    --hash=sha256:301fdb487587c9bf277025001da97b53697aab73ae1268d9d1ba972a2c5fc801 \
+    --hash=sha256:e195cf6d8c3dd5d41f3cf8ad831d9891f95d7d18fa6d5fb4d30a713df99b26a4
 ipython-genutils==0.2.0; python_version >= "3.6" \
     --hash=sha256:72dd37233799e619666c9f639a9da83c34013a73e8bbc79a7a6348d93c61fab8 \
     --hash=sha256:eb2e116e75ecef9d4d228fdc66af54269afa26ab4463042e33785b887c628ba8
