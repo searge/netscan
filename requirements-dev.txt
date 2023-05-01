@@ -765,6 +765,6 @@ webencodings==0.5.1; python_version >= "3.7" \
 wemake-python-styleguide==0.16.0; python_version >= "3.6" and python_version < "4.0" \
     --hash=sha256:3bf0a4962404e6fd6fa479e72e2ba3fb75d5920ea6c44b72b45240c9e519543c \
     --hash=sha256:8caa92b4aa77b08a505d718553238812d1b612b1036bc171ca3aa18345efe0b4
-widgetsnbextension==3.6.1 \
-    --hash=sha256:954e0faefdd414e4e013f17dbc7fd86f24cf1d243a3ac85d5f0fc2c2d2b50c66 \
-    --hash=sha256:9c84ae64c2893c7cbe2eaafc7505221a795c27d68938454034ac487319a75b10
+widgetsnbextension==4.0.7 \
+    --hash=sha256:be3228a73bbab189a16be2d4a3cd89ecbd4e31948bfdc64edac17dcdee3cd99c \
+    --hash=sha256:ea67c17a7cd4ae358f8f46c3b304c40698bc0423732e3f273321ee141232c8be
