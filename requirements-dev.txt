@@ -493,7 +493,7 @@ python-dateutil==2.8.2; python_full_version >= "3.6.1" and python_version >= "3.
 pyupgrade==2.31.0; python_full_version >= "3.6.1" \
     --hash=sha256:0a62c5055f854d7f36e155b7ee8920561bf0399c53edd975cf02436eef8937fc \
     --hash=sha256:80e2308cae2b11c3fdd091137495d99abf7e0cd98b501aa5758974991497c24c
-pywin32==304; sys_platform == "win32" and platform_python_implementation != "PyPy" and python_version >= "3.7" \
+pywin32==306; sys_platform == "win32" and platform_python_implementation != "PyPy" and python_version >= "3.7" \
     --hash=sha256:6fed4af057039f309263fd3285d7b8042d41507343cd5fa781d98fcc5b90e8bb \
     --hash=sha256:51cb52c5ec6709f96c3f26e7795b0bf169ee0d8395b2c1d7eb2c029a5008ed51 \
     --hash=sha256:d9b5d87ca944eb3aa4cd45516203ead4b37ab06b8b777c54aedc35975dec0dee \
