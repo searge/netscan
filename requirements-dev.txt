@@ -255,7 +255,7 @@ flake8==4.0.1; python_version >= "3.7" and python_version < "4.0" \
 gitdb==4.0.9; python_version >= "3.7" \
     --hash=sha256:8033ad4e853066ba6ca92050b9df2f89301b8fc8bf7e9324d412a63f8bf1a8fd \
     --hash=sha256:bac2fd45c0a1c9cf619e63a90d62bdc63892ef92387424b855792a6cabe789aa
-gitpython==3.1.26; python_version >= "3.7" and python_version < "4.0" \
+gitpython==3.1.30; python_version >= "3.7" and python_version < "4.0" \
     --hash=sha256:26ac35c212d1f7b16036361ca5cff3ec66e11753a0d677fb6c48fa4e1a9dd8d6 \
     --hash=sha256:fc8868f63a2e6d268fb25f481995ba185a85a66fcad126f039323ff6635669ee
 identify==2.5.26; python_version >= "3.7" and python_full_version >= "3.6.1" \
@@ -291,7 +291,7 @@ jupyter-client==7.3.4; python_full_version >= "3.7.0" and python_version >= "3.7
 jupyter-console==6.6.3; python_version >= "3.6" \
     --hash=sha256:309d33409fcc92ffdad25f0bcdf9a4a9daa61b6f341177570fdac03de5352485 \
     --hash=sha256:566a4bf31c87adbfadf22cdf846e3069b59a71ed5da71d6ba4d8aaad14a53539
-jupyter-core==4.11.1; python_full_version >= "3.6.1" and python_version >= "3.7" \
+jupyter-core==4.11.2; python_full_version >= "3.6.1" and python_version >= "3.7" \
     --hash=sha256:2e5f244d44894c4154d06aeae3419dd7f1b0ef4494dc5584929b398c61cfd314 \
     --hash=sha256:715e22bb6cc7db3718fddfac1f69f1c7e899ca00e42bdfd4bf3705452b9fd84a
 jupyter==1.0.0 \
@@ -732,7 +732,7 @@ toml==0.10.2; python_full_version >= "3.6.2" and python_version >= "3.8" \
 tomli==2.0.1; python_version >= "3.7" \
     --hash=sha256:939de3e7a6161af0c887ef91b7d41a53e7c5a1ca976325f429cb46ea9bc30ecc \
     --hash=sha256:de526c12914f0c550d15924c62d72abc48d6fe7364aa87328337a31007fe8a4f
-tornado==6.2; python_full_version >= "3.6.1" and python_version >= "3.7" \
+tornado==6.3.2; python_full_version >= "3.6.1" and python_version >= "3.7" \
     --hash=sha256:1d54d13ab8414ed44de07efecb97d4ef7c39f7438cf5e976ccd356bebb1b5fca \
     --hash=sha256:20f638fd8cc85f3cbae3c732326e96addff0a15e22d80f049e00121651e82e72 \
     --hash=sha256:5c87076709343557ef8032934ce5f637dbb552efa7b21d08e89ae7619ed0eb23 \
@@ -768,3 +768,4 @@ wemake-python-styleguide==0.16.0; python_version >= "3.6" and python_version < "
 widgetsnbextension==4.0.7 \
     --hash=sha256:be3228a73bbab189a16be2d4a3cd89ecbd4e31948bfdc64edac17dcdee3cd99c \
     --hash=sha256:ea67c17a7cd4ae358f8f46c3b304c40698bc0423732e3f273321ee141232c8be
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
