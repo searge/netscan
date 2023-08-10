@@ -12,7 +12,7 @@ colorama==0.4.4; python_full_version >= "3.6.2" and python_full_version < "4.0.0
 commonmark==0.9.1; python_full_version >= "3.6.2" and python_full_version < "4.0.0" \
     --hash=sha256:da2f38c92590f83de410ba1a3cbceafbc74fee9def35f9251ba9a971d6d66fd9 \
     --hash=sha256:452f9dc859be7f06631ddcb328b6919c67984aca654e5fefb3914d54691aed60
-pygments==2.11.2; python_full_version >= "3.6.2" and python_full_version < "4.0.0" and python_version >= "3.5" \
+pygments==2.15.0; python_full_version >= "3.6.2" and python_full_version < "4.0.0" and python_version >= "3.5" \
     --hash=sha256:44238f1b60a76d78fc8ca0528ee429702aae011c265fe6a8dd8b63049ae41c65 \
     --hash=sha256:4e426f72023d88d03b2fa258de560726ce890ff3b630f88c21cbb8b2503b8c6a
 rich==11.1.0; python_full_version >= "3.6.2" and python_full_version < "4.0.0" \
