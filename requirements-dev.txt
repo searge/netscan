@@ -397,9 +397,9 @@ nbformat==5.9.0; python_full_version >= "3.7.0" and python_version >= "3.7" \
 nest-asyncio==1.5.8; python_full_version >= "3.7.0" and python_version >= "3.7" \
     --hash=sha256:25aa2ca0d2a5b5531956b9e273b45cf664cae2b145101d73b86b199978d48fdb \
     --hash=sha256:accda7a339a70599cb08f9dd09a67e0c2ef8d8d6f4c07f96ab203f2ae254e48d
-nodeenv==1.7.0; python_full_version >= "3.6.1" \
-    --hash=sha256:27083a7b96a25f2f5e1d8cb4b6317ee8aeda3bdd121394e5ac54e498028a042e \
-    --hash=sha256:e0e7f7dfb85fc5394c6fe1e8fa98131a2473e04311a45afb6508f7cf1836fa2b
+nodeenv==1.8.0; python_full_version >= "3.6.1" \
+    --hash=sha256:d51e0c37e64fbf47d017feac3145cdbb58836d7eee8c6f6d3b6880c5456227d2 \
+    --hash=sha256:df865724bb3c3adc86b3876fa209771517b0cfe596beff01a92700e0e8be4cec
 notebook==7.0.4; python_version >= "3.6" \
     --hash=sha256:0c1b458f72ce8774445c8ef9ed2492bd0b9ce9605ac996e2b066114f69795e71 \
     --hash=sha256:ee738414ac01773c1ad6834cf76cc6f1ce140ac8197fd13b3e2d44d89e257f72
