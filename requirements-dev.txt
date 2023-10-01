@@ -412,9 +412,9 @@ pandocfilters==1.5.0; python_version >= "3.7" and python_full_version < "3.0.0" 
 parso==0.8.3; python_version >= "3.8" \
     --hash=sha256:c001d4636cd3aecdaf33cbb40aebb59b094be2a74c556778ef5576c175e19e75 \
     --hash=sha256:8c07be290bb59f03588915921e29e8a50002acaf2cdc5fa0e0114f91709fafa0
-pathspec==0.9.0; python_full_version >= "3.6.2" and python_version >= "3.8" \
-    --hash=sha256:7d15c4ddb0b5c802d161efc417ec1a2558ea2653c2e8ad9c19098201dc1c993a \
-    --hash=sha256:e564499435a2673d586f6b2130bb5b95f04a3ba06f81b8f895b651a3c76aabb1
+pathspec==0.11.2; python_full_version >= "3.6.2" and python_version >= "3.8" \
+    --hash=sha256:1d6ed233af05e679efb96b1851550ea95bbb64b7c490b0f5aa52996c11e92a20 \
+    --hash=sha256:e0d8d0ac2f12da61956eb2306b69f9469b42f4deb0f3cb6ed47b9cce9996ced3
 pbr==5.11.1; python_version >= "3.7" \
     --hash=sha256:567f09558bae2b3ab53cb3c1e2e33e726ff3338e7bae3db5dc954b3a44eef12b \
     --hash=sha256:aefc51675b0b533d56bb5fd1c8c6c0522fe31896679882e1c4c63d5e4a0fccb3
