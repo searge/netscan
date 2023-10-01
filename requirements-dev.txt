@@ -278,9 +278,9 @@ jupyter-client==8.3.1; python_full_version >= "3.7.0" and python_version >= "3.7
 jupyter-console==6.6.3; python_version >= "3.6" \
     --hash=sha256:309d33409fcc92ffdad25f0bcdf9a4a9daa61b6f341177570fdac03de5352485 \
     --hash=sha256:566a4bf31c87adbfadf22cdf846e3069b59a71ed5da71d6ba4d8aaad14a53539
-jupyter-core==4.11.2; python_full_version >= "3.6.1" and python_version >= "3.7" \
-    --hash=sha256:2e5f244d44894c4154d06aeae3419dd7f1b0ef4494dc5584929b398c61cfd314 \
-    --hash=sha256:715e22bb6cc7db3718fddfac1f69f1c7e899ca00e42bdfd4bf3705452b9fd84a
+jupyter-core==5.3.2; python_full_version >= "3.6.1" and python_version >= "3.7" \
+    --hash=sha256:0c28db6cbe2c37b5b398e1a1a5b22f84fd64cd10afc1f6c05b02fb09481ba45f \
+    --hash=sha256:a4af53c3fa3f6330cebb0d9f658e148725d15652811d1c32dc0f63bb96f2e6d6
 jupyter==1.0.0 \
     --hash=sha256:5b290f93b98ffbc21c0c7e749f054b3267782166d72fa5e3ed1ed4eaf34a2b78 \
     --hash=sha256:d9dc4b3318f310e34c82951ea5d6683f67bed7def4b259fafbfe4f1beb1d8e5f \
