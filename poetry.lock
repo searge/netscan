@@ -1987,13 +1987,13 @@ test = ["pytest (>=6,!=7.0.0,!=7.0.1)", "pytest-cov (>=3.0.0)", "pytest-qt"]
 
 [[package]]
 name = "reorder-python-imports"
-version = "3.8.2"
+version = "3.11.0"
 description = "Tool for reordering python imports"
 optional = false
-python-versions = ">=3.7"
+python-versions = ">=3.8"
 files = [
-    {file = "reorder_python_imports-3.8.2-py2.py3-none-any.whl", hash = "sha256:c362190fc61f28c9ed3657de0ae702694ce97f90da54617716b23d70b4d4771c"},
-    {file = "reorder_python_imports-3.8.2.tar.gz", hash = "sha256:bc5bd5e01548423fdcf62da767b28d5df6e613b03f9f795438f72b08b75dfba8"},
+    {file = "reorder_python_imports-3.11.0-py2.py3-none-any.whl", hash = "sha256:1317e154f35b57130d6f2acd3df0abbeaac3c8a5c767454ff5bd4989d07dfdbe"},
+    {file = "reorder_python_imports-3.11.0.tar.gz", hash = "sha256:b39776d1f43083f6f537d14642a9b70ea6d7aa91a013330543d2ae7d12e2e7e2"},
 ]
 
 [package.dependencies]
@@ -2393,4 +2393,4 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "7c4176041e80cb6e9a93b6fadade8a4d94334edd3c06a57f71290f796816f7e3"
+content-hash = "fd7fd3a4dd38c900326fdd70788c6654d75ddd34dba21d460bb72e98b1eeb7a5"
