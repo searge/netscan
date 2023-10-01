@@ -80,9 +80,9 @@ black==23.9.1; python_full_version >= "3.6.2" and python_version >= "3.8" \
     --hash=sha256:cf3a4d00e4cdb6734b64bf23cd4341421e8953615cba6b3670453737a72ec204 \
     --hash=sha256:cf99f3de8b3273a8317681d8194ea222f10e0133a24a7548c73ce44ea1679377 \
     --hash=sha256:d6bc09188020c9ac2555a498949401ab35bb6bf76d4e0f8ee251694664df6301
-bleach==5.0.1; python_version >= "3.7" \
-    --hash=sha256:085f7f33c15bd408dd9b17a4ad77c577db66d76203e5984b1bd59baeee948b2a \
-    --hash=sha256:0d03255c47eb9bd2f26aa9bb7f2107732e7e8fe195ca2f64709fcf3b0a4a085c
+bleach==6.0.0; python_version >= "3.7" \
+    --hash=sha256:1a1a85c1595e07d8db14c5f09f09e6433502c51c595970edc090551f0db99414 \
+    --hash=sha256:33c16e3353dbd13028ab4799a0f89a83f113405c766e9c122df8a06f5b85b3f4
 cached-property==1.5.2; python_version >= "3.7" \
     --hash=sha256:9fa5755838eecbb2d234c3aa390bd80fbd3ac6b6869109bfc1b499f7bd89a130 \
     --hash=sha256:df4f613cf7ad9a588cc381aaf4a512d26265ecebd5eb9e1ba12f1319eb85a6a0
