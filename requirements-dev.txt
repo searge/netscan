@@ -744,9 +744,9 @@ tornado==6.3.3; python_full_version >= "3.6.1" and python_version >= "3.7" \
     --hash=sha256:9dc4444c0defcd3929d5c1eb5706cbe1b116e762ff3e0deca8b715d14bf6ec17 \
     --hash=sha256:ceb917a50cd35882b57600709dd5421a418c29ddc852da8bcdab1f0db33406b0 \
     --hash=sha256:e7d8db41c0181c80d76c982aacc442c0783a2c54d6400fe028954201a2e032fe
-traitlets==5.9.0; python_full_version >= "3.7.0" and python_version >= "3.8" \
-    --hash=sha256:9e6ec080259b9a5940c797d58b613b5e31441c2257b87c2e795c5228ae80d2d8 \
-    --hash=sha256:f6cde21a9c68cf756af02035f72d5a723bf607e862e7be33ece505abf4a3bad9
+traitlets==5.10.1; python_full_version >= "3.7.0" and python_version >= "3.8" \
+    --hash=sha256:07ab9c5bf8a0499fd7b088ba51be899c90ffc936ffc797d7b6907fc516bcd116 \
+    --hash=sha256:db9c4aa58139c3ba850101913915c042bdba86f7c8a0dda1c6f7f92c5da8e542
 typing-extensions==4.0.1; python_version >= "3.6" and python_version < "4.0" \
     --hash=sha256:7f001e5ac290a0c0401508864c7ec868be4e701886d5b573a9528ed3973d9d3b \
     --hash=sha256:4ca091dea149f945ec56afb48dae714f21e8692ef22a395223bcd328961b6a0e
