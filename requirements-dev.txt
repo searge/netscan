@@ -506,13 +506,12 @@ pywin32==306; sys_platform == "win32" and platform_python_implementation != "PyP
     --hash=sha256:793bf74fce164bcffd9d57bb13c2c15d56e43c9542a7b9687b4fccf8f8a41aba \
     --hash=sha256:7d3271c98434617a11921c5ccf74615794d97b079e22ed7773790822735cc352 \
     --hash=sha256:79cbb862c11b9af19bcb682891c1b91942ec2ff7de8151e2aea2e175899cda34
-pywinpty==2.0.10; os_name == "nt" and python_version >= "3.7" \
-    --hash=sha256:38cb924f2778b5751ef91a75febd114776b3af0ae411bc667be45dd84fc881d3 \
-    --hash=sha256:3c46aef80dd50979aff93de199e4a00a8ee033ba7a03cadf0a91fed45f0c39d7 \
-    --hash=sha256:4c7d06ad10f6e92bc850a467f26d98f4f30e73d2fe5926536308c6ae0566bc16 \
-    --hash=sha256:7ffbd66310b83e42028fc9df7746118978d94fba8c1ebf15a7c1275fdd80b28a \
-    --hash=sha256:902d79444b29ad1833b8d5c3c9aabdfd428f4f068504430df18074007c8c0de8 \
-    --hash=sha256:cdbb5694cf8c7242c2ecfaca35c545d31fa5d5814c3d67a4e628f803f680ebea
+pywinpty==2.0.11; os_name == "nt" and python_version >= "3.7" \
+    --hash=sha256:0ffd287751ad871141dc9724de70ea21f7fc2ff1af50861e0d232cf70739d8c4 \
+    --hash=sha256:452f10ac9ff8ab9151aa8cea9e491a9612a12250b1899278c6a56bc184afb47f \
+    --hash=sha256:6701867d42aec1239bc0fedf49a336570eb60eb886e81763db77ea2b6c533cc3 \
+    --hash=sha256:e244cffe29a894876e2cd251306efd0d8d64abd5ada0a46150a4a71c0b9ad5c5 \
+    --hash=sha256:e4e7f023c28ca7aa8e1313e53ba80a4d10171fe27857b7e02f99882dfe3e8638
 pyyaml==6.0; python_version >= "3.7" and python_full_version >= "3.6.1" and python_version < "4.0" \
     --hash=sha256:d4db7c7aef085872ef65a8fd7d6d09a14ae91f691dec3e87ee5ee0539d516f53 \
     --hash=sha256:9df7ed3b3d2e0ecfe09e14741b857df43adb5a3ddadc919a2d94fbdf78fea53c \
