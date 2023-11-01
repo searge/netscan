@@ -268,9 +268,9 @@ jinja2==3.1.2; python_version >= "3.7" \
 jsonschema==4.19.1; python_version >= "3.7" \
     --hash=sha256:cd5f1f9ed9444e554b38ba003af06c0a8c2868131e56bfbef0550fb450c0330e \
     --hash=sha256:ec84cc37cfa703ef7cd4928db24f9cb31428a5d0fa77747b8b51a847458e0bbf
-jupyter-client==8.4.0; python_full_version >= "3.7.0" and python_version >= "3.7" \
-    --hash=sha256:6a2a950ec23a8f62f9e4c66acec7f0ea6c7d1f80ba0992e747b10c56ce2e6dbe \
-    --hash=sha256:dc1b857d5d7d76ac101766c6e9b646bf18742721126e72e5d484c75a993cada2
+jupyter-client==8.5.0; python_full_version >= "3.7.0" and python_version >= "3.7" \
+    --hash=sha256:c3877aac7257ec68d79b5c622ce986bd2a992ca42f6ddc9b4dd1da50e89f7028 \
+    --hash=sha256:e8754066510ce456358df363f97eae64b50860f30dc1fe8c6771440db3be9a63
 jupyter-console==6.6.3; python_version >= "3.6" \
     --hash=sha256:309d33409fcc92ffdad25f0bcdf9a4a9daa61b6f341177570fdac03de5352485 \
     --hash=sha256:566a4bf31c87adbfadf22cdf846e3069b59a71ed5da71d6ba4d8aaad14a53539
