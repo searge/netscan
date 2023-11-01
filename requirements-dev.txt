@@ -647,9 +647,9 @@ pyzmq==25.1.1; python_full_version >= "3.6.1" and python_version >= "3.7" \
 qtconsole==5.4.4; python_version >= "3.6" \
     --hash=sha256:a3b69b868e041c2c698bdc75b0602f42e130ffb256d6efa48f9aa756c97672aa \
     --hash=sha256:b7ffb53d74f23cee29f4cdb55dd6fabc8ec312d94f3c46ba38e1dde458693dfb
-qtpy==2.4.0; python_version >= "3.6" \
-    --hash=sha256:4d4f045a41e09ac9fa57fcb47ef05781aa5af294a0a646acc1b729d14225e741 \
-    --hash=sha256:db2d508167aa6106781565c8da5c6f1487debacba33519cedc35fa8997d424d4
+qtpy==2.4.1; python_version >= "3.6" \
+    --hash=sha256:1c1d8c4fa2c884ae742b069151b0abe15b3f70491f3972698c683b8e38de839b \
+    --hash=sha256:a5a15ffd519550a1361bdc56ffc07fda56a6af7292f17c7b395d4083af632987
 regex==2023.10.3; python_full_version >= "3.6.2" and python_version >= "3.8" \
     --hash=sha256:00ba3c9818e33f1fa974693fb55d24cdc8ebafcb2e4207680669d8f8d7cca79a \
     --hash=sha256:00e871d83a45eee2f8688d7e6849609c2ca2a04a6d48fba3dff4deef35d14f07 \
