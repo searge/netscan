@@ -429,9 +429,9 @@ platformdirs==3.11.0; python_version >= "3.7" and python_full_version >= "3.6.1"
 pre-commit==2.17.0; python_full_version >= "3.6.1" \
     --hash=sha256:725fa7459782d7bec5ead072810e47351de01709be838c2ce1726b9591dad616 \
     --hash=sha256:c1a8040ff15ad3d648c70cc3e55b93e4d2d5b687320955505587fd79bbaed06a
-prometheus-client==0.17.1; python_version >= "3.6" \
-    --hash=sha256:21e674f39831ae3f8acde238afd9a27a37d0d2fb5a28ea094f0ce25d2cbf2091 \
-    --hash=sha256:e537f37160f6807b8202a6fc4764cdd19bac5480ddd3e0d463c3002b34462101
+prometheus-client==0.18.0; python_version >= "3.6" \
+    --hash=sha256:35f7a8c22139e2bb7ca5a698e92d38145bc8dc74c1c0bf56f25cca886a764e17 \
+    --hash=sha256:8de3ae2755f890826f4b6479e5571d4f74ac17a81345fe69a6778fdb92579184
 prompt-toolkit==3.0.39; python_full_version >= "3.6.2" and python_version >= "3.8" \
     --hash=sha256:04505ade687dc26dc4284b1ad19a83be2f2afe83e7a828ace0c72f3a1df72aac \
     --hash=sha256:9dffbe1d8acf91e3de75f3b544e4842382fc06c6babe903ac9acb74dc6e08d88
