@@ -814,9 +814,9 @@ urllib3==1.26.18; (python_version >= "2.7" and python_full_version < "3.0.0") or
 virtualenv==20.24.7; python_full_version >= "3.6.1" \
     --hash=sha256:69050ffb42419c91f6c1284a7b24e0475d793447e35929b488bf6a0aade39353 \
     --hash=sha256:a18b3fd0314ca59a2e9f4b556819ed07183b3e9a3702ecfe213f593d44f7b3fd
-wcwidth==0.2.9; python_full_version >= "3.6.2" and python_version >= "3.6" \
-    --hash=sha256:9a929bd8380f6cd9571a968a9c8f4353ca58d7cd812a4822bba831f8d685b223 \
-    --hash=sha256:a675d1a4a2d24ef67096a04b85b02deeecd8e226f57b5e3a72dbb9ed99d27da8
+wcwidth==0.2.12; python_full_version >= "3.6.2" and python_version >= "3.6" \
+    --hash=sha256:f01c104efdf57971bcb756f054dd58ddec5204dd15fa31d6503ea57947d97c02 \
+    --hash=sha256:f26ec43d96c8cbfed76a5075dac87680124fa84e0855195a6184da9c187f133c
 webencodings==0.5.1; python_version >= "3.7" \
     --hash=sha256:a0af1213f3c2226497a97e2b3aa01a7e4bee4f403f95be16fc9acd2947514a78 \
     --hash=sha256:b36a1c245f2d304965eb4e0a82848379241dc04b865afcc4aab16748587e1923
