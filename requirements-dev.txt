@@ -46,8 +46,9 @@ asyncio==3.4.3 \
 attrs==21.4.0; python_version >= "3.7" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.7" and python_version < "4.0" and python_full_version >= "3.5.0" \
     --hash=sha256:2d27e3784d7a565d36ab851fe94887c5eccd6a463168875832a1be79c82828b4 \
     --hash=sha256:626ba8234211db98e869df76230a137c4c40a12d72445c45d5f5b716f076e2fd
-autoflake==1.4 \
-    --hash=sha256:61a353012cff6ab94ca062823d1fb2f692c4acda51c76ff83a8d77915fba51ea
+autoflake==1.7.8 \
+    --hash=sha256:46373ef69b6714f5064c923bb28bd797c4f8a9497f557d87fc36665c6d956b39 \
+    --hash=sha256:e7e46372dee46fa1c97acf310d99d922b63d369718a270809d7c278d34a194cf
 autopep8==1.6.0 \
     --hash=sha256:ed77137193bbac52d029a52c59bec1b0629b5a186c495f1eb21b126ac466083f \
     --hash=sha256:44f0932855039d2c15c4510d6df665e4730f2b8582704fa48f9c55bd3e17d979
