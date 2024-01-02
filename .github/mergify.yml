@@ -6,3 +6,10 @@
     actions:
       merge:
         method: merge
+
+  - name: automatic merge for Snyk
+    conditions:
+      - author=snyk-bot
+    actions:
+      merge:
+        method: merge
