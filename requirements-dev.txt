@@ -270,9 +270,9 @@ jedi==0.19.1; python_version >= "3.8" \
 jinja2==3.1.2; python_version >= "3.7" \
     --hash=sha256:31351a702a408a9e7595a8fc6150fc3f43bb6bf7e319770cbc0db9df9437e852 \
     --hash=sha256:6088930bfe239f0e6710546ab9c19c9ef35e29792895fed6e6e31a023a182a61
-jsonschema==4.20.0; python_version >= "3.7" \
-    --hash=sha256:4f614fd46d8d61258610998997743ec5492a648b33cf478c1ddc23ed4598a5fa \
-    --hash=sha256:ed6231f0429ecf966f5bc8dfef245998220549cbbcf140f913b7464c52c3b6b3
+jsonschema==4.21.1; python_version >= "3.7" \
+    --hash=sha256:7996507afae316306f9e2290407761157c6f78002dcf7419acb99822143d1c6f \
+    --hash=sha256:85727c00279f5fa6bedbe6238d2aa6403bedd8b4864ab11207d07df3cc1b2ee5
 jupyter-client==8.6.0; python_full_version >= "3.7.0" and python_version >= "3.7" \
     --hash=sha256:0642244bb83b4764ae60d07e010e15f0e2d275ec4e918a8f7b80fbbef3ca60c7 \
     --hash=sha256:909c474dbe62582ae62b758bca86d6518c85234bdee2d908c778db6d72f39d99
