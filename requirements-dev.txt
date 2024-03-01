@@ -401,9 +401,9 @@ nest-asyncio==1.6.0; python_full_version >= "3.7.0" and python_version >= "3.7" 
 nodeenv==1.8.0; python_full_version >= "3.6.1" \
     --hash=sha256:d51e0c37e64fbf47d017feac3145cdbb58836d7eee8c6f6d3b6880c5456227d2 \
     --hash=sha256:df865724bb3c3adc86b3876fa209771517b0cfe596beff01a92700e0e8be4cec
-notebook==7.0.7; python_version >= "3.6" \
-    --hash=sha256:289b606d7e173f75a18beb1406ef411b43f97f7a9c55ba03efa3622905a62346 \
-    --hash=sha256:3bcff00c17b3ac142ef5f436d50637d936b274cfa0b41f6ac0175363de9b4e09
+notebook==7.1.1; python_version >= "3.6" \
+    --hash=sha256:197d8e0595acabf4005851c8716e952a81b405f7aefb648067a761fbde267ce7 \
+    --hash=sha256:818e7420fa21f402e726afb9f02df7f3c10f294c02e383ed19852866c316108b
 packaging==23.2; python_version >= "3.7" \
     --hash=sha256:048fb0e9405036518eaaf48a55953c750c11e1a1b68e0dd1a9d62ed0c092cfc5 \
     --hash=sha256:8c491190033a9af7e1d931d0b5dacc2ef47509b34dd0de67ed209b5203fc88c7
