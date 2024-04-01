@@ -404,9 +404,9 @@ nodeenv==1.8.0; python_full_version >= "3.6.1" \
 notebook==7.1.1; python_version >= "3.6" \
     --hash=sha256:197d8e0595acabf4005851c8716e952a81b405f7aefb648067a761fbde267ce7 \
     --hash=sha256:818e7420fa21f402e726afb9f02df7f3c10f294c02e383ed19852866c316108b
-packaging==23.2; python_version >= "3.7" \
-    --hash=sha256:048fb0e9405036518eaaf48a55953c750c11e1a1b68e0dd1a9d62ed0c092cfc5 \
-    --hash=sha256:8c491190033a9af7e1d931d0b5dacc2ef47509b34dd0de67ed209b5203fc88c7
+packaging==24.0; python_version >= "3.7" \
+    --hash=sha256:2ddfb553fdf02fb784c234c7ba6ccc288296ceabec964ad2eae3777778130bc5 \
+    --hash=sha256:eb82c5e3e56209074766e6885bb04b8c38a0c015d0a30036ebe7ece34c9989e9
 pandocfilters==1.5.0; python_version >= "3.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.7" \
     --hash=sha256:33aae3f25fd1a026079f5d27bdd52496f0e0803b3469282162bafdcbdf6ef14f \
     --hash=sha256:0b679503337d233b4339a817bfc8c50064e2eff681314376a47cb582305a7a38
