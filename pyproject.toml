@@ -20,7 +20,7 @@ jupyter = "^1.0.0"
 ruff = "^0.5.5"
 pycodestyle = "^2.12.1"
 pyupgrade = "^3.17.0"
-mypy = "^1.11.1"
+mypy = "^1.11.2"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
