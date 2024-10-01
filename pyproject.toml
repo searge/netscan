@@ -7,7 +7,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-rich = "^13.8.0"
+rich = "^13.8.1"
 urllib3 = "^2.2.3"
 scapy = "^2.6.0"
 click = "^8.1.7"
