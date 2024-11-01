@@ -19,7 +19,7 @@ asyncio = "^3.4.3"
 jupyter = "^1.1.1"
 ruff = "^0.7.1"
 pycodestyle = "^2.12.1"
-pyupgrade = "^3.17.0"
+pyupgrade = "^3.19.0"
 mypy = "^1.13.0"
 
 [build-system]
