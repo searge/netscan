@@ -2033,13 +2033,13 @@ files = [
 
 [[package]]
 name = "scapy"
-version = "2.6.0"
+version = "2.6.1"
 description = "Scapy: interactive packet manipulation tool"
 optional = false
 python-versions = "<4,>=3.7"
 files = [
-    {file = "scapy-2.6.0-py3-none-any.whl", hash = "sha256:6cf241e9b93f3b93bbb48fc259edb1d1f14ba1d88d72c80fb66b3b02eb5493dc"},
-    {file = "scapy-2.6.0.tar.gz", hash = "sha256:c8f7eb54511c2fab502128ccf18e2e4b98e1f6af6e02ae15b84ad3039143ba3b"},
+    {file = "scapy-2.6.1-py3-none-any.whl", hash = "sha256:88a998572049b511a1f3e44f4aa7c62dd39c6ea2aa1bb58434f503956641789d"},
+    {file = "scapy-2.6.1.tar.gz", hash = "sha256:7600d7e2383c853e5c3a6e05d37e17643beebf2b3e10d7914dffcc3bc3c6e6c5"},
 ]
 
 [package.extras]
@@ -2340,4 +2340,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "3da339febd55b98aee441c0f5bb452609752e784b203c956be4723ce999a8973"
+content-hash = "ee7a97b73d9d3bb901adc9fd6d41a7d516f3a93cfb6cdf4cab6cb654ac84fa88"
