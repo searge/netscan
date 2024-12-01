@@ -9,7 +9,7 @@ license = "MIT"
 python = "^3.11"
 rich = "^13.9.3"
 urllib3 = "^2.2.3"
-scapy = "^2.6.0"
+scapy = "^2.6.1"
 click = "^8.1.7"
 asyncio = "^3.4.3"
 
