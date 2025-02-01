@@ -17,7 +17,7 @@ asyncio = "^3.4.3"
 
 [tool.poetry.group.dev.dependencies]
 jupyter = "^1.1.1"
-ruff = "^0.8.4"
+ruff = "^0.9.4"
 pycodestyle = "^2.12.1"
 pyupgrade = "^3.19.1"
 mypy = "^1.14.1"
