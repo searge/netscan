@@ -10,7 +10,7 @@ python = "^3.11"
 rich = "^14.1.0"
 urllib3 = "^2.5.0"
 scapy = "^2.6.1"
-click = "^8.2.1"
+click = "^8.3.0"
 asyncio = "^4.0.0"
 
 [tool.poetry.dev-dependencies]
